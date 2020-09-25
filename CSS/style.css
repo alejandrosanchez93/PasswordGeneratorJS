@@ -1,0 +1,51 @@
+
+body {
+    background-image: url(../Images/PWGBG.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: rgba(253, 253, 253, 0.741);
+}
+
+h2 {
+    color: rgba(245, 245, 245, 0.809);
+}
+
+.container {
+    background-image: url(../Images/PWGBG.jpg);  
+}
+
+.card-body {
+    background-image: url(../Images/PWGBG.jpg);
+}
+
+.card-header {
+    background-image: url(../Images/PWGBG.jpg);
+}
+
+.card-footer {
+    background-image: url(../Images/PWGBG.jpg);
+}
+
+.card {
+    width: 400px;
+}
+
+.form-check-label {
+    color: white;
+}
+
+#generate {
+    background-color: rgba(0, 0, 0, 0.394);
+    color: rgba(245, 245, 245, 0.449);
+}
+
+#scroll {
+    color: white;
+}
+
+#pwLength {
+    color: white;
+    
+}
