@@ -8,4 +8,5 @@ When no types are checked the app will alert "Must select one type"
 
 length can be modified from 8 - 180 characters
 
-<img src="./Images/screenshot.jpg">
+<img src="./Images/screenshot.png">
+
