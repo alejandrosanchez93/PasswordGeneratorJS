@@ -4,11 +4,12 @@ body,
     height: 100%;
     margin: 0;
     padding: 0;
+    background-image: url("./Images/PWGBG.jpg");
 }
 
 body {
     font-family: sans-serif;
-    background-color: rgb(189, 189, 189)
+    background-image: url("./Images/PWGBG.jpg");
 }
 
 .wrapper {
@@ -21,15 +22,15 @@ header {
     text-align: center;
     padding: 20px;
     padding-top: 0px;
-    color: rgb(12, 13, 107);
+    color: whitesmoke;
     font-size: 20px;
 }
 
 .card {
-    background-color: whitesmoke;
+    background-image: url("./Images/PWGBG.jpg");
     border-radius: 5px;
     border-width: 1px;
-    color: rgb(12, 13, 107);
+    color: whitesmoke;
     font-size: 20px;
     margin: 0 auto;
     max-width: 800px;
@@ -43,6 +44,7 @@ textarea {
 
 .card-footer {
     text-align: center;
+    background-image: url("./Images/PWGBG.jpg");
 }
 
 .btn {
