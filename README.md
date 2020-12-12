@@ -13,3 +13,5 @@ As an employee with access to sensitive data, I want to randomly generate a pass
 6. When all prompts are answered, a password is generated that matches the selected criteria.
 7. When the password is generated, the password is either displayed in an alert or written to the page.
 8. Live at https://alejandrosanchez93.github.io/PasswordGeneratorJS/
+
+<img src="./Images/PWGscreenshot.png">
